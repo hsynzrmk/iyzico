@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "1090030290233",
+    "firebase_url": "https://maximal-totem-276120-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "maximal-totem-276120",
+    "storage_bucket": "maximal-totem-276120.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090030290233:android:b9e8388e8570c47438d4e8",
+        "android_client_info": {
+          "package_name": "com.example.iyzi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090030290233-96k61g0ssj9m0c69p1qtqrrv8il9801u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0t-M0c5g3t57bZ0jVsJezbz2f5l4R8JY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090030290233-96k61g0ssj9m0c69p1qtqrrv8il9801u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1090030290233-1dejjh05434l176ddmmfpoojbd6tdbpe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.fftrivia"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090030290233:android:415d38b2f903ed7338d4e8",
+        "android_client_info": {
+          "package_name": "com.example.ozelprojes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090030290233-96k61g0ssj9m0c69p1qtqrrv8il9801u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0t-M0c5g3t57bZ0jVsJezbz2f5l4R8JY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090030290233-96k61g0ssj9m0c69p1qtqrrv8il9801u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1090030290233-1dejjh05434l176ddmmfpoojbd6tdbpe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.fftrivia"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
